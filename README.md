@@ -22,7 +22,7 @@ Developed by: Aman Singh
 RegisterNumber:  212224040020
 */
 ```
-```
+```python
 import pandas as pd
 df=pd.read_csv("/content/Employee.csv")
 print("data.head():")
